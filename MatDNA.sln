@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2087DEB6-B073-4C77-BAC0-962218F08F56}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vba", "vba", "{87C3F48F-A990-4EAD-8B5A-58634AC73E49}"
+	ProjectSection(SolutionItems) = preProject
+		vba\clsBin.cls = vba\clsBin.cls
+		vba\clsBlock.cls = vba\clsBlock.cls
+		vba\clsLayout.cls = vba\clsLayout.cls
+		vba\clsLexOp.cls = vba\clsLexOp.cls
+		vba\clsLexToken.cls = vba\clsLexToken.cls
+		vba\clsMatByElmStanza.cls = vba\clsMatByElmStanza.cls
+		vba\clsMatCom.cls = vba\clsMatCom.cls
+		vba\clsMatComRange.cls = vba\clsMatComRange.cls
+		vba\clsMatCon.cls = vba\clsMatCon.cls
+		vba\clsMatConRange.cls = vba\clsMatConRange.cls
+		vba\clsMatElmIso.cls = vba\clsMatElmIso.cls
+		vba\clsMatIso.cls = vba\clsMatIso.cls
+		vba\clsMatMaster.cls = vba\clsMatMaster.cls
+		vba\clsMatMaterial.cls = vba\clsMatMaterial.cls
+		vba\clsMatMaterialRange.cls = vba\clsMatMaterialRange.cls
+		vba\clsMatMixMatByFracParam.cls = vba\clsMatMixMatByFracParam.cls
+		vba\clsMatMixMatByFracStanza.cls = vba\clsMatMixMatByFracStanza.cls
+		vba\clsMatMixMatByVFParam.cls = vba\clsMatMixMatByVFParam.cls
+		vba\clsMatMixMatByVFStanza.cls = vba\clsMatMixMatByVFStanza.cls
+		vba\clsMatStoichStanza.cls = vba\clsMatStoichStanza.cls
+		vba\clsMatStoichTblFracCon.cls = vba\clsMatStoichTblFracCon.cls
+		vba\clsMatTblComp.cls = vba\clsMatTblComp.cls
+		vba\clsMatTblFracCon.cls = vba\clsMatTblFracCon.cls
+		vba\clsMatTblIso.cls = vba\clsMatTblIso.cls
+		vba\clsMatTblMCNP.cls = vba\clsMatTblMCNP.cls
+		vba\clsMatTblParam.cls = vba\clsMatTblParam.cls
+		vba\clsMatTblSCALE.cls = vba\clsMatTblSCALE.cls
+		vba\clsMatTblSpec.cls = vba\clsMatTblSpec.cls
+		vba\clsMatUtil.cls = vba\clsMatUtil.cls
+		vba\clsParameter.cls = vba\clsParameter.cls
+		vba\clsSurface.cls = vba\clsSurface.cls
+		vba\mdlCheck.bas = vba\mdlCheck.bas
+		vba\mdlExcel.bas = vba\mdlExcel.bas
+		vba\mdlGlobal.bas = vba\mdlGlobal.bas
+		vba\mdlIndex.bas = vba\mdlIndex.bas
+		vba\mdlInput.bas = vba\mdlInput.bas
+		vba\mdlMaterials.bas = vba\mdlMaterials.bas
+		vba\mdlMatTest.bas = vba\mdlMatTest.bas
+		vba\mdlMCNP.bas = vba\mdlMCNP.bas
+		vba\mdlORIGIN.bas = vba\mdlORIGIN.bas
+		vba\mdlSCALE.bas = vba\mdlSCALE.bas
+		vba\mdlStat.bas = vba\mdlStat.bas
+		vba\mdlUtils.bas = vba\mdlUtils.bas
+		vba\mdlWin.bas = vba\mdlWin.bas
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{87C3F48F-A990-4EAD-8B5A-58634AC73E49} = {2087DEB6-B073-4C77-BAC0-962218F08F56}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CC88AC-8FF5-459D-8D1C-85BBA6B123B0}
+	EndGlobalSection
+EndGlobal
